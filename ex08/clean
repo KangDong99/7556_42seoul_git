@@ -1,1 +1,1 @@
-find ./ -type f -empty -delete
+find ./ -type f -delete
